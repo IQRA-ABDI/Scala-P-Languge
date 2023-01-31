@@ -1,4 +1,4 @@
-//simple calculations
+//simple calculater
 val num1=10
 val num2=20
 val add = num1+num2
