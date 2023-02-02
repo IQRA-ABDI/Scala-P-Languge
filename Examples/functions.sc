@@ -28,15 +28,14 @@ return e/f
   println(div(20,10))
 
   def mul(g: Int , h:Int): Int = {
-return g*h
+   return g*h
 
 }
   println(mul(20,10))
 
-
-
 def parameterlessfunction1() : Int = 42
   println(parameterlessfunction1())
+
 
   def recursfunc(text : String , n : Int) : String = {
     if (n==1)
